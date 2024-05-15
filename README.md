@@ -1,5 +1,5 @@
 <p align="center">
-  <img ="pROFILE.png" width=400 style="display: block; margin: 0 auto"/>
+  <img src="pROFILE.png" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
