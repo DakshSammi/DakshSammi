@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/B0UzQqg" width=400 style="display: block; margin: 0 auto"/>
+  <img src="https://imgur.com/t6qO5aK" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
@@ -12,11 +12,11 @@
 
 ### About me
 
-- Hi, I am Daksh Sammi, yet another coder on the earth school.
+- 👋 Hi, I am Daksh Sammi, yet another coder at the earth school. 
 
 - 🎁 Surrender and Serve!
 
-- 🔥 I really love the thrill of making what I want possible!
+- 🔥 I really love the thrill of making it possible!
 
 - 🏢 I am a Computer Science and Biosciences Student at [IIIT Delhi](https://iiitd.ac.in/), an undergraduate researcher at [Knowledgeable Computing and Reasoning Lab](https://kracr.iiitd.edu.in/team), and now I am interning at [VaidyaRx](https://vaidyarx.com/).
 
