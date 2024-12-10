@@ -20,17 +20,19 @@
 
 - 🏢 I am a Computer Science and Biosciences Student at [IIIT Delhi](https://iiitd.ac.in/), an undergraduate researcher at [Knowledgeable Computing and Reasoning Lab](https://kracr.iiitd.edu.in/team), and an ex-summer intern at [VaidyaRx](https://vaidyarx.com/). Currently looking for my next role as a full-time software engineer/ quant developer/ data engineer/ data scientist/ full stack engineer starting from May, 2025 after I graduate. Please hit my socials for any opportunities.
   
-|   |   |   | `T` | `h` | `i` | `n` | `g` | `s` |   | `I` |   | `💚` | `:` |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|   |   | `C` | `O` | `M` | `P` | `U` | `T` | `E` | `R` | `S` |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   | `A` | `I` |   |   |   |   |   |   |   |   |   |
-|   |   | `D` | `A` | `T` | `A` |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| `C` | `H` | `A` | `L` | `L` | `E` | `N` | `G` | `E` | `S` |   |   |   |   |
-| `B` | `I` | `O` | `L` | `O` | `G` | `Y` |   |   |   |   |   |   |   |
-| `M` | `L` |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   | `📸` [Instagram](https://www.instagram.com/daksh_sammi_/) |   |   |   |   |
+| `T` | `h` | `i` | `n` | `g` | `s` | `I` | `💚` | `:` |   |
+|---|---|---|---|---|---|---|---|---|---|
+|   | `C` |   |   |   |   | `C` | `O` | `M` | `P` |
+|   | `O` | `M` | `P` | `U` | `T` | `U` |   | `L` | `L` |
+|   |   | `A` |   |   | `I` |   | `T` | `E` |   |
+|   | `D` | `A` | `T` | `A` | `S` |   | `R` |   |   |
+|   |   | `L` | `E` | `A` | `R` | `N` | `I` | `N` | `G` |
+|   | `B` |   |   | `A` |   | `I` | `S` |   |   |
+|   | `I` | `O` |   |   | `G` | `C` |   |   |   |
+|   | `O` |   | `A` | `C` | `C` | `E` | `P` | `T` | `S` |
+|   | `L` |   | `H` | `A` | `L` | `L` | `E` | `N` | `G` |
+|   |   |   | `L` | `E` | `A` | `R` | `N` | `I` | `N` |
+
 
 
 ### 🛠 &nbsp;Tech Stack
