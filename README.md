@@ -12,24 +12,21 @@
 
 ### About me
 
-- 👋 Hi, I am Daksh Sammi, yet another coder at the earth school. 
+- 👋 Hi, I am Daksh Sammi, a final year undergraduate student at IIIT-Delhi. 
 
 - 🎁 Surrender and Serve!
 
 - 🔥 I really love the thrill of making it possible!
 
-- 🏢 I am a Computer Science and Biosciences Student at [IIIT Delhi](https://iiitd.ac.in/), an undergraduate researcher at [Knowledgeable Computing and Reasoning Lab](https://kracr.iiitd.edu.in/team), and now I am interning at [VaidyaRx](https://vaidyarx.com/).
-
-<br/>
-
+- 🏢 I am a Computer Science and Biosciences Student at [IIIT Delhi](https://iiitd.ac.in/), an undergraduate researcher at [Knowledgeable Computing and Reasoning Lab](https://kracr.iiitd.edu.in/team), and an ex-summer intern at [VaidyaRx](https://vaidyarx.com/). Currently looking for my next role as a full-time software engineer/ quant developer/ data engineer/ data scientist/ full stack engineer starting from May, 2025 after I graduate. Please hit my socials for any opportunities
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | |`C`|`O`|`M`|`P`|`U`|`T`|`E`|`R`|`S`| ||
 || | || | | | || ||
 || |||`A`|`I`|||||||
 | | | || | | | || ||
+|`C`|`H`|`A`|`L`|`L`|`E`|`N`|`G`|`E`|`S`| |
 |`B`|`I`|`O`|`L`|`O`|`G`|`Y`| || | |
-| | | || | | | || | |
 |`M`|`L`|||||| ||| |
 | | | | | | || | |[📸](https://www.instagram.com/daksh_sammi_/)| |
 
