@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🏢 I am a research and development executive at Meril Life Sciences (mICROcRISPR pVT. lTD.). Building a target drug discovery platform. Please hit my socials for any opportunities.
+- 🏢 I am a research and development executive at Meril Life Sciences (mICROcRISPR pVT. lTD.). Building a target drug discovery platform. interested in all things ai. Please hit my socials for any opportunities.
   
 | `T` | `h` | `i` | `n` | `g` | `s` |  |  `I` |  | `💚` |  `:` |
 |---|---|---|---|---|---|---|---|---|---|---|
