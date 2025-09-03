@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🏢 I am a Computer Science and Biosciences Student at [IIIT Delhi](https://iiitd.ac.in/), an undergraduate researcher at [Knowledgeable Computing and Reasoning Lab](https://kracr.iiitd.edu.in/team). Currently looking for my next role as a full-time software engineer/ quant developer/ data engineer/ data scientist/ full stack engineer starting from May, 2025 after I graduate. Please hit my socials for any opportunities.
+- 🏢 I am a research and development executive at Meril Life Sciences (mICROcRISPR pVT. lTD.). Building a target drug discovery platform. Please hit my socials for any opportunities.
   
 | `T` | `h` | `i` | `n` | `g` | `s` |  |  `I` |  | `💚` |  `:` |
 |---|---|---|---|---|---|---|---|---|---|---|
