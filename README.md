@@ -17,15 +17,15 @@
 | `T` | `h` | `i` | `n` | `g` | `s` |  |  `I` |  | `💚` |  `:` |
 |---|---|---|---|---|---|---|---|---|---|---|
 | `C` | `O` | `M` | `P` | `U` | `T` | `E` | `R` | `S` |   |   |
-| `H` |   |   |   |   |   | `A` |   |   |   |   |
+| `H` |   |   |   |   |   |  |   |   |   |   |
 | `A` | `I` |   |   |   | `D` | `A` | `T` | `A` |   |   |
-| `L` |   |   | `M` |   |   |   |   |   | `📸` [Instagram](https://www.instagram.com/daksh_sammi_/) |   |
-| `L` | `E` |   |   |   |   |   |   |   |   |   |
-| `E` | `N` |   |   |   |   |   |   |   |   |   |
+| `L` |  `L` | `M`  |  |   |   |   |   |   | `📸` [Instagram](https://www.instagram.com/daksh_sammi_/) |   |
+| `L` |  |   |   |   |  `G` |  `R` | `A`  |  `P` | `H`  | `S`  |
+| `E` |  |   |   |   |   |   |   |   |   |   |
 | `N` | `G` | `E` | `N` | `E` | `E` | `R` | `I` | `N` | `G` |   |
 | `G` |   |   |   |   |   |   |   |   |   |   |
 | `E` |   |   |   |   |   |   |   |   |   |   |
-| `S` |   |   |   |   |   |   |   |   |   |   |
+| `S` |   | `R`  | `A`  | `G`  |   |   |   |   |   |   |
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
