@@ -82,6 +82,6 @@
 <img src="https://profile-counter.glitch.me/DakshSammi/count.svg" /> -->
 
 [![Github Follow](https://img.shields.io/github/followers/DakshSammi?label=Follow%20Me&style=social)](https://github.com/DakshSammi)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDakshSammi&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg? -->url=https%3A%2F%2Fgithub.com%2FDakshSammi&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daksh21459@iiitd.ac.in)](mailto:daksh21459@iiitd.ac.in)
